@@ -1,7 +1,6 @@
 
 
 
-
 📁 SmartFile Organizer
 
 📌 Description
@@ -130,5 +129,7 @@ Designed for Windows environments.
 
 Lifoter Kayla
 C-based automation project for intelligent file organization and real-time folder monitoring.
+
+
 
 
