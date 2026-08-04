@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1782981305 source:c:\users\asus\desktop\kayla's file organizer\smart file organizer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<direct.h>
+	<windows.h>
+
+1782981304 source:c:\users\lenovo t470\onedrive\desktop\kayla's file organizer\kayla's file organizer\smart file organizer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<direct.h>
+	<windows.h>
+
